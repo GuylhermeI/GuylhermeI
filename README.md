@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuylhermeI" />
-
  </div>
+
+![1ka4](https://github.com/user-attachments/assets/416273c6-a0d3-4b65-85d3-1f496fff1407)
  
 <div align="center"> 
   <a href="mailto:guylherme.silva00001@gmail.com">
