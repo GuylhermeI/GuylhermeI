@@ -1,7 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GuylhermeI" />
  </div>
-
-![1ka4](https://github.com/user-attachments/assets/416273c6-a0d3-4b65-85d3-1f496fff1407)
  
 <div align="center"> 
   <a href="mailto:guylherme.silva00001@gmail.com">
@@ -12,19 +10,14 @@
 
  </div>
 
- <hr/>
- 
+ ![retro-anime-gif-34](https://github.com/user-attachments/assets/87cf744e-19e1-4a69-bebc-a4bd60e98cfe)
+
 <h2 align="center">Technologys</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=visualstudio,c,cpp,python,debian,kali,linux" />
-    <img src="https://skillicons.dev/icons?i=mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql" /><br> 
 </div>
-
-<br/>
-<hr/>
-
-<hr/>
 
 <h2 align="center"> Stats </h2>
 <br>
