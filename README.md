@@ -9,7 +9,7 @@
 
  ![retro-anime-gif-34](https://github.com/user-attachments/assets/87cf744e-19e1-4a69-bebc-a4bd60e98cfe)
 
-<h2 align="center">Technologys</h2>
+<h2 align="center">Technologies</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=visualstudio,c,cpp,python,debian,kali,linux" />
