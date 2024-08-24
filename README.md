@@ -1,9 +1,6 @@
- <div align="center"> 
-  <a href="mailto:guylherme.silva00001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/guylherme-aldo-sousa-da-silva-6629052a9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=500000&width=435&lines=Welcome+to+Guylherme's+portfolio." alt="Typing SVG" /></a>
+
+
 
  </div>
 
